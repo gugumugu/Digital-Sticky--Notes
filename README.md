@@ -1,2 +1,57 @@
-# Digital-Sticky--Notes
-A modern, minimalist take on digital sticky notes. Create, drag, resize, and edit notes effortlessly, all wrapped in a clean UI with smooth animations and a vibrant color palette. Notes auto-save in local storage, making this a lightweight yet powerful space to capture ideas, reminders,  just like real sticky notes, but smarter.
+# 📝 Sticky Notes  
+
+![Sticky Notes App Screenshot](https://github.com/Prachi9506/Sticky-Notes/blob/main/Screenshot%202025-08-31%20183622.png)
+
+### Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Prachi9506/Sticky-Notes
+   cd Sticky-Notes
+   ```
+
+2. **Install dependencies**
+   ```bash
+   npm i
+   ```
+
+3. **Start the development server**
+   ```bash
+   npm run dev
+   ```
+
+4. **Open your browser**
+   Navigate to `http://localhost:5173` to view the application
+
+
+## ✨ Key Features  
+- 🟨 **Create Notes** → click a color button
+- 🎯 **Drag & Drop** → move notes freely on the screen  
+- 📏 **Resizable** → adjust size with a corner handle  
+- 🌈 **Multiple Colors** → yellow, pink, green, and blue  
+- 💾 **Persistent Storage** → notes auto-save and reload on refresh  
+- ⌨️ **Inline Editing** → just click inside a note to type  
+
+---
+
+## 🎨 Design  
+- Classic sticky note aesthetic with **rounded corners** and **subtle shadows**  
+- Smooth **animations & hover effects**  
+- Clean **control panel** for easy management  
+- Beautiful **color palette** with semantic design tokens  
+
+---
+
+## 🔧 Controls  
+- 🎨 **Color picker** → choose different note colors  
+- ❌ **Delete button (X)** on each note  
+- 🧹 **Clear All** → remove every note in one click  
+- 🔢 **Note counter** → shows how many notes you have  
+
+---
+
+
+
+
+
+
